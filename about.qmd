@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/DolgushevI64783
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/Iamalos
+
+---
+
+Welcome to The Neural Notebook. This is a blog where I write about stuff that is interesting to me and mostly related to computer science. I am a beginner in the field but hopefully this will change in some time.
+
+I am currently working in corporate finance but during any free time I try to educate myself in the field of computer science.

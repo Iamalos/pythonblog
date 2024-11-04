@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to The Neural Notebook. This is a blog where I write about stuff that is interesting to me and mostly related to computer science. I am a beginner in the field but hopefully this will change in some time.\nI am currently working in corporate finance but during any free time I try to educate myself in the field of computer science."
+  },
+  {
+    "objectID": "posts/new-post/index.html",
+    "href": "posts/new-post/index.html",
+    "title": "New Post",
+    "section": "",
+    "text": "Here is some lovely text and an equation.\n\\[ a^2 + b^2 = c^2 \\]\nHere’s a list.\n\na link to an external website.\na link to another post in this blog."
+  },
+  {
+    "objectID": "posts/new-post/index.html#a-nice-heading",
+    "href": "posts/new-post/index.html#a-nice-heading",
+    "title": "New Post",
+    "section": "",
+    "text": "Here is some lovely text and an equation.\n\\[ a^2 + b^2 = c^2 \\]\nHere’s a list.\n\na link to an external website.\na link to another post in this blog."
+  },
+  {
+    "objectID": "posts/new-post/index.html#another-heading",
+    "href": "posts/new-post/index.html#another-heading",
+    "title": "New Post",
+    "section": "Another heading",
+    "text": "Another heading\nIs this better or worse now? Let’s check!\n\nprint('Hello, Quarto!')\n\nHello, Quarto!\n\n\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.arange(10)\ny = 2*x + 1\nplt.plot(x,y);\n\n\n\n\nThis is my lovely line plot"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RealPythonID",
+    "section": "",
+    "text": "New Post\n\n\n\n\n\n\nnonsence\n\n\ncode\n\n\n\nA nice new post\n\n\n\n\n\nOct 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 24, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 21, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]
